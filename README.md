@@ -1,10 +1,10 @@
 # quotes
 
-A new Flutter project.
+A new Flutter project. Which will display quotes from the movie Kung Fu Panda 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the initial commit to this project , later on multiple pages will be added.
 
 A few resources to get you started if this is your first Flutter project:
 
