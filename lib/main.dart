@@ -22,21 +22,19 @@ class _HomeScreenState extends State<HomeScreen> {
         author: '--Master Shifu',
         text:
             "If you only do what you can do, you will never be more than who you are."),
-    Quote(author: "--Po's Father", text: "There is no secret ingredient."),
+    Quote(
+          author: "--Po's Father", 
+          text: 
+          "There is no secret ingredient."),
     Quote(
         author: "--Master Ooway",
         text:
             "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear"),
-   // Quote(
-     //   author: "--Master Shifu",
-       // text: "We do not wash our pits in the pool of sacred tears"),
     Quote(
         author: "--Po",
         text:
             "Legend tells of a legendary warrior whose kung fu skills were the stuff of legend."),
-    //Quote(
-        //author: "--Master Oogway",
-        //text: "There are no coincidences in this world."),
+
   ];
   @override
   Widget build(BuildContext context) {
